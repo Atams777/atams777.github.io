@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-upload counter: 1
+upload counter: 2
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
