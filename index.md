@@ -10,7 +10,7 @@ I took my first coding class in Highschool (VB), started my first programing job
 
 # What is this site:
 
-This site is for the most part and excuse for me to work with stuff outside of my day job.
+This site is, for the most part, an excuse for me to work with stuff outside of my day job.
 
 Hosting websites on GitHub, playing with some Java code, Google Analytics, etc.
 
@@ -22,4 +22,4 @@ I am trying to write a book, so maybe I will add a progress monitor on here for 
 
 # Anything else?
 
-Honestly, that is about it, I've only had the domain and pages for a bit, and I'm really just playing around with it for now.
+Honestly, that is about it, I've only had the domain and page for a bit, and I'm really just playing around with it for now.
