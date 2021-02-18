@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: theirongrizzly.com
+Token: d96d1be2f9973787a8ee00272f6b7ff3f2972b06816508afc1e2d3ad68a0ab18
