@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: The Iron Grizzly
 description: A small page about me
+
+include: [".well-known"]
