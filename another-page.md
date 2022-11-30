@@ -17,7 +17,6 @@ _yay_
  <div class="column"> <img src="/assets/images/gallery/city_under_seige.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/desolate.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/end_of_an_era.png" onclick="myFunction(this);"></div>
- <div class="column"> <img src="/assets/images/gallery/forgotten_temple.png" onclick="myFunction(this);"></div>
 </div>
 <div class="row">
  <div class="column"> <img src="/assets/images/gallery/hidden_temple.png" onclick="myFunction(this);"></div>
@@ -27,9 +26,10 @@ _yay_
  <div class="column"> <img src="/assets/images/gallery/out_of_time_and_space.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/perfectly_balanced.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/temple_of_the_gods.png" onclick="myFunction(this);"></div>
- <div class="column"> <img src="/assets/images/gallery/temple_on_the_hill.png" onclick="myFunction(this);"></div>
 </div>
 <div class="row">
+ <div class="column"> <img src="/assets/images/gallery/temple_on_the_hill.png" onclick="myFunction(this);"></div>
+ <div class="column"> <img src="/assets/images/gallery/forgotten_temple.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/the only path forward.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/the_world_bruns.png" onclick="myFunction(this);"></div>
  <div class="column"> <img src="/assets/images/gallery/wet_landing.png" onclick="myFunction(this);"></div>
