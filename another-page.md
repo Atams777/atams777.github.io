@@ -7,3 +7,10 @@ layout: default
 _yay_
 
 [back](./)
+
+<table>
+  <tr>
+    <td> a table cell</td>
+  </tr>
+</table>
+  
