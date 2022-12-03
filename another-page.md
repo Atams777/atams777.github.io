@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
-
-_yay_
+## Welcome to a small Gallery I've created
 
 [back](./)
  
