@@ -31,8 +31,16 @@
 
 /* The expanding image container (positioning is needed to position the close button and the text) */
 .container {
-  position: relative;
   display: none;
+  position: absolute;
+  left: 25%;
+  top: 2%;
+  border-width: 2px;
+  border-style: solid;
+  z-index: 100000;
+  width: 71%;
+  padding: 0px;
+  margin: 0px;
 }
 
 /* Expanding image text */
